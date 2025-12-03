@@ -1,0 +1,18 @@
+[
+  {
+    "username": "*",
+    "key": "*"
+  },
+  {
+    "username": "test",
+    "key": "1234567890123456"
+  },
+  {
+    "username": "admin",
+    "key": "ABCDEFGHIJKLMNOP"
+  },
+  {
+    "username": "user",
+    "key": "0000000000000000"
+  }
+]
